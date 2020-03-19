@@ -9,13 +9,17 @@ Travelling by air is the fastest means to get from point A to point B. Flight is
 
 
 Data Source:
+
 My data source is Kaggle.com: AviationData.csv. This is a dataset from the Federal Aviation Administration (FAA) Aviation Accident/Incident Database providing details about each aviation accident that has occurred from 1962 to the present. 
 
+
 Plan
+
 •	Download and explore data. 
 •	Prepare data: remove helicopter, public aircraft and commercial aircraft data, fix broken values, determine if a subset of data must be used.
 •	Determine the best suited visualizations for the data.
 •	Break down the tasks and implement them.
+
 
 Audience:
 
