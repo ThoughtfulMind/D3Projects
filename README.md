@@ -7,7 +7,8 @@ PROSPECTUS
 
 Travelling by air is the fastest means to get from point A to point B. Flight is also a passion for many who are willing to accept the inherent risks. This visualization will explore general aviation injuries that occurred over nearly six decades in the United States. Specifically, I am looking at the accidents and incidents by make and model of the plane to see if there is a connection between aircraft manufacturers and injury accidents to help determine safety performance and trends. Additionally, I will look at the weather impact and the time in flight when the accident occurred. Lastly, I will attempt to identify the two causes when combined lead to most fatal accidents.
 
-Data Source 
+
+Data Source:
 My data source is Kaggle.com: AviationData.csv. This is a dataset from the Federal Aviation Administration (FAA) Aviation Accident/Incident Database providing details about each aviation accident that has occurred from 1962 to the present. 
 
 Plan
@@ -17,7 +18,9 @@ Plan
 •	Break down the tasks and implement them.
 
 Audience:
+
 General aviation, small aircraft pilots.
+
 
 SOURCES:
 
