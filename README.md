@@ -16,10 +16,10 @@ Plan
 •	Determine the best suited visualizations for the data.
 •	Break down the tasks and implement them.
 
-Audience
+Audience:
 General aviation, small aircraft pilots.
 
-SOURCES
+SOURCES:
 
 FAA.gov https://www.faa.gov/news/fact_sheets/news_story.cfm?newsId=21274  
 AOPA: http://www.aopa.org/training-and-safety/air-safety-institute/accident-analysis/joseph-t-nall-report
