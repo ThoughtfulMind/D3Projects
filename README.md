@@ -1,5 +1,5 @@
-# D3Projects
 Project 1: Exploratory Visualization
+
 My initial questions are: What is the severity of aviation injuries? What is the rate of fatal accidents versus total accidents? What two causes combined contribute the most to accidents? What type of plane (make, model) has sustained more accidents? When are the accidents occurring: takeoff, climb, cruise, maneuvering or landing? The goal of asking multiple questions at the start and looking at the data from multiple perspectives is that it will lead to uncovering trends, patterns and relationships in the data that would not be otherwise evident.
 
 PROSPECTUS
